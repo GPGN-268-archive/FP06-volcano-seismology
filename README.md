@@ -11,7 +11,7 @@ Volcanic eruptions cause seismic activity, and we are looking to analyze the rel
 
 
 ### Problem Statement
-
+#### Natural disasters can pose great dangers towards human civilization and infrastructure. The capacity to predict the onset of natural disasters, therefore, provides an opportunity to afford greater protection to those elements of the modern world. Therefore, our research goal is the following: Through analysis of volcanologically originating seismic data, are there discernible, significant, and common patterns of ground-movement present at the onset of volcanic eruptions? If so, how can systems be implemented to be able to detect these patterns and thus determine when an eruption has taken, or is about to take, place?
 
 
 ### Datasets
