@@ -42,7 +42,8 @@ Pacific Northwest Seismic Network
 ### Expected Outcomes
 It is our expectation that we will be able to formulate a comprehensive analysis of eruption seismic data and generate a deeper and useful interpretation of the data such that our problem statement goals are met.
 
-### Relevant Information
+### Anticipated Challenges
+We anticipate there may be some challenges procuring a sufficient quantity of data for a full, comprehensive analysis of our problem statement. Additionally, determining an appropriate standard for analysis of the data may be challenging. Finally, the process of analysis of the data will likely prove to be generally challenging, including processing the data, comparing datasets, and drawing conclusions about the data.
 
 
 
