@@ -21,19 +21,26 @@ Pacific Northwest Seismic Network
 
 ### Tools/Packages
 - Python
+  - Python will be the main tool for data visualization and processing. Some of the Python libraries will also be used
 - MatPlotLib
+  - This Python library will be utilized for graphing of data and creation of figures
 - Numpy
+  - This Python library will be utilized for processing of datasets and easier manipulation of data
 
 
 ### Planned Methodology
 - Start by researching the datasets, and think about how we can analyze these datasets.
-- Form a plan for what we want to find. 
+- Form a plan for what we want to find.
+  - What visualizations should we make?
+  - How many different datasets should we analyze?
+  - What constitutes significant similarities?
 - Analyze the datasets with python.
+  - Perform any operations on datasets needed.
+  - Select correct ranges of data.
 - Interpret and write up a report describing our results.
 
 ### Expected Outcomes
-Draw a meaningful conclusion from analyzing our data.
-
+It is our expectation that we will be able to formulate a comprehensive analysis of eruption seismic data and generate a deeper and useful interpretation of the data such that our problem statement goals are met.
 
 ### Relevant Information
 
