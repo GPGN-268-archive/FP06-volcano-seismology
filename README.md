@@ -1,6 +1,6 @@
 # FP06-volcano-seismology
 
-## **Names:** Kieran Yanaway (@KieranTheYanaway) Zachary Mathias (@zmathais16)
+## **Names:** Kieran Yanaway (@KieranTheYanaway) Zachary Mathias (@zmathias16)
 
 
 ### Summary
