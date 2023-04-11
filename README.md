@@ -19,7 +19,8 @@ Volcanic eruptions cause seismic activity, and we are looking to analyze the rel
 Pacific Northwest Seismic Network </br>
 [NASA EarthData](https://www.earthdata.nasa.gov/learn/sensing-our-planet/sensing-remote-volcanoes#ed-sop-datatable) </br>
 [Mt. St. Helens post-eruption landscape change](https://www.usgs.gov/data/digital-elevation-model-south-fork-toutle-river-mount-st-helens-based-juneampampndashjuly-1980) </br>
-May be worth taking a look at to see if we can learn about what the damage to the surrounding area post-eruption can show us.  
+May be worth taking a look at to see if we can learn about what the damage to the surrounding area post-eruption can show us.
+[Potentially useful not dataset](https://dusk.geo.orst.edu/prosem/PDFs/forecasting_volc.pdf)
 
 ### Tools/Packages
 - Python
