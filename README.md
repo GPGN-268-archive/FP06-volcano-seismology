@@ -4,10 +4,13 @@
 
 
 ### Summary
-This project aims to analyze seismic data originating from volcanic eruptions in order to determine whether the onset of an eruption has a distinguishable pattern that can be observed.
+This project aims to analyze seismic data originating from volcanic eruptions in order to determine whether the onset of an eruption has any distinguishable seismic patterns that can be observed.
+
+### How to use this Repository
+This repository contains multiple Jupyter Notebook files. The WaveformsLocating.ipynb file contains code for opening and graphing waveforms of various events from the 2018 Kilauea eruption. The FP06-volcano-seismology.ipynb file contains the final product of the analysis and code for this project.
 
 ### Background Information
-Volcanic eruptions cause seismic activity, and we are looking to analyze the relationship between the eruptions and seismic activity through datasets provided from places such as USGS, Pacific Northwest Seismic Network, etc.
+Volcanic eruptions cause seismic activity, and we are looking to analyze the relationship between the eruptions and seismic activity. The files in this repository use data from the Hawaii network, acquired through the IRIS web service using the ObsPy library. The seismic data demonstrate various aspects of the 2018 Kilauea eruption, giving some insight into eruption and seismic mechanics.
 
 
 ### Problem Statement
@@ -15,12 +18,9 @@ Volcanic eruptions cause seismic activity, and we are looking to analyze the rel
 
 
 ### Datasets
+[Hawaii Network](https://www.fdsn.org/networks/detail/HV/) </br>
 [USGS 2018 Kīlauea](https://www.sciencebase.gov/catalog/item/61a8fa27d34eb622f699a6a6) </br>
-Pacific Northwest Seismic Network </br>
-[NASA EarthData](https://www.earthdata.nasa.gov/learn/sensing-our-planet/sensing-remote-volcanoes#ed-sop-datatable) </br>
-[This might be the same as the first USGS 2018 dataset](https://www.sciencebase.gov/catalog/item/61a8fa27d34eb622f699a6a6) </br>
-[Mt. St. Helens post-eruption landscape change](https://www.usgs.gov/data/digital-elevation-model-south-fork-toutle-river-mount-st-helens-based-juneampampndashjuly-1980) </br>
-May be worth taking a look at to see if we can learn about what the damage to the surrounding area post-eruption can show us.  
+
 
 ### Tools/Packages
 - Python
@@ -29,6 +29,8 @@ May be worth taking a look at to see if we can learn about what the damage to th
   - This Python library will be utilized for graphing of data and creation of figures
 - Numpy
   - This Python library will be utilized for processing of datasets and easier manipulation of data
+- ObsPy
+  - This Python library will provide seismic data from the Hawaii seismic network to allow for a wide array of data analysis options.
 
 
 ### Planned Methodology
@@ -51,6 +53,6 @@ We anticipate there may be some challenges procuring a sufficient quantity of da
 
 
 ### References
-
+[Forecasting Volcanic Eruptions](https://dusk.geo.orst.edu/prosem/PDFs/forecasting_volc.pdf)
 
 
