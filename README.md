@@ -7,7 +7,7 @@
 This project aims to analyze seismic data originating from volcanic eruptions in order to determine whether the onset of an eruption has any distinguishable seismic patterns that can be observed.
 
 ### How to use this Repository
-This repository contains multiple Jupyter Notebook files. The WaveformsLocating.ipynb file contains code for opening and graphing waveforms of various events from the 2018 Kilauea eruption. The FP06-volcano-seismology.ipynb file contains the final product of the analysis and code for this project.
+This repository contains multiple Jupyter Notebook files. The WaveformsLocating.ipynb file contains code for opening and graphing waveforms of various events from the 2018 Kilauea eruption. The FP06-volcano-seismology.ipynb file contains the final product of the figures and analysis of the figures. The Map.ipynb file contains code for constructing the map of the island of Hawai'i with marked locations of stations that we looked at.
 
 ### Background Information
 Volcanic eruptions cause seismic activity, and we are looking to analyze the relationship between the eruptions and seismic activity. The files in this repository use data from the Hawaii network, acquired through the IRIS web service using the ObsPy library. The seismic data demonstrate various aspects of the 2018 Kilauea eruption, giving some insight into eruption and seismic mechanics.
